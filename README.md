@@ -7,6 +7,7 @@ Use ES6 if you are familiar with it.
 ## HOW TO DO IT
 
 Simply create js file and write some code. Using console.log is fine to output the results of your code.
+Please send your solution to aaron@incentivegames.com
 
 ## EXAMPLE
 
