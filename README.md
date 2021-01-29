@@ -8,7 +8,9 @@ Use ES6 if you are familiar with it.
 
 Simply clone the repository and edit the index.js file. 
 
-Please send your solution to aaron@incentivegames.com
+Please send your solution or any question/feedback to aaron@incentivegames.com
+
+Good luck!
 
 ## EXAMPLE
 
