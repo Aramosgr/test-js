@@ -1,6 +1,6 @@
 # INCENTIVE GAMES
 
-Hi! This is a Javascript test where you will do some functions to prove what you are made of.
+Hi! This is a Javascript test where you will code some functions to prove what you are made of (nothing too complicated, this won´t take more than 30 minutes).
 
 Use ES6 if you are familiar with it.
 
