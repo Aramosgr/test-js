@@ -6,7 +6,8 @@ Use ES6 if you are familiar with it.
 
 ## HOW TO DO IT
 
-Simply create js file and write some code. Using console.log is fine to output the results of your code.
+Simply clone the repository and edit the index.js file. 
+
 Please send your solution to aaron@incentivegames.com
 
 ## EXAMPLE
