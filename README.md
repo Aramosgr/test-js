@@ -28,4 +28,4 @@ mySolution();
 
 If you want to prove your React skills too, there is also a test called reactTest.tsx.
 
-All you need to do is edit that file adding the code the TestComponent needs, and send it to us. There is no need of installing anything or rendering the component.
+All you need to do is edit that file and add the code the TestComponent needs, and send it to us. There is no need of installing anything or rendering the component.
