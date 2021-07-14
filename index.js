@@ -54,7 +54,6 @@ const data = require("./data");
  * Example:
  *      Team A has 4 players, 2 with 50 scoringChance and 2 with 70 scoringChance. 
  *      The average score for the team would be 2.4 (50+50+70+70 / 100), and the closest integer is 2, so the Team A score is 2
- * Bonus points if you create a reusable function in the test 3 and you use it here
  */
 
 // Your code
