@@ -40,7 +40,7 @@ const data = require("./data");
 
 /**
  * Test 4
- * Write a function that accepts a name, and logs the position of the player with that name
+ * Write a function that accepts a name, and logs the position of the player with that name (by position it means striker, goalkeeper...)
  */
 
 // Your code
