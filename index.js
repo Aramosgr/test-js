@@ -30,7 +30,7 @@ const data = require("./data");
  * Test 3
  * Write a function to log in the console the average number of goals there will be in a match if all the players in the data play on it
  * scoringChance means how many goals per 100 matches the player will score
- * Example: 10 players play in a match, all of them has 0.11 scoringChance, the result will be 1.1 average goals 
+ * Example: 10 players play in a match, all of them has 11 scoringChance, the result will be 1.1 average goals 
  * Output example -> Goals per match: 2.19
  */
 
