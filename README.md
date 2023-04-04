@@ -8,7 +8,7 @@ Use ES6 if you are familiar with it.
 
 Simply clone the repository and edit the index.js file. 
 
-Please send your solution or any question/feedback to jobs@incentivegames.com
+Please send your solution or any question/feedback to graham.macdonald@incentivegames.com
 
 Good luck!
 
@@ -23,9 +23,3 @@ const mySolution = () => {
 // Please run the file to see the results
 mySolution();
 ```
-
-## BONUS POINTS
-
-If you want to prove your React skills too, there is also a test called reactTest.tsx.
-
-All you need to do is edit that file and add the code the TestComponent needs, and send it to us. There is no need of installing anything or rendering the component.

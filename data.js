@@ -54,7 +54,7 @@ module.exports = {
                 name: "Diego",
                 lastname: "llorente",
                 position: "defender",
-                scoringChance: "4"
+                scoringChance: 4
             },
             {
                 name: "Lucas",
